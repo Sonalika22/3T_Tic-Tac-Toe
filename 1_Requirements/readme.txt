@@ -36,6 +36,7 @@ It can help to improve a person's concentration as well as strategic thinking
 | 2000-2021 | After Digitalisation, this game is almost free for everyone on multiple mediums.| Cost-effective |
 
 ## Defining Our System
+![This is an image](https://raw.githubusercontent.com/ArnoldKevinDesouza/Tic-Tac-Toe/main/6_Media/flow.png)
 
 ![Description](https://github.com/ArnoldKevinDesouza/Tic-Tac-Toe/blob/main/6_Media/flow.png?raw=true)
 ### Explanation:
