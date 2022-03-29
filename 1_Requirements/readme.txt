@@ -10,13 +10,53 @@ The source code of this project is very lengthy and totally error-free which is 
 The use of Data Structure is also done for storing and organizing the data.To understand better download and compile the project. The download button is given just below the image.
 
 #COST  AND FEATURES
+
+# Supplier Info
+
 S.No.	Features	Cost (Rs.)
-1	Secured Login	0
-2	Add Entry	0
+1	Supplier Info	0
+2	Add new supplier 0
 3	Search	0
-4	Modify	0
-5	Delete	0
-6	Display All	0
+4	Update	0	
+5	Display All	0
+6 Main Menu 0
+
+#Customer Info
+
+S.No.	Features	Cost (Rs.)
+1	Supplier Info	0
+2	Add new customer 0
+3	Search	0
+4	Update	0	
+5	Display All	0
+6 Main Menu 0
+
+#Medicine Menu
+
+S.No.	Features	Cost (Rs.)
+1	Purchase New medicine	0
+2	Sale Medicine	0
+3	Stock of medicine	0
+4	search of Medicine	0	
+5  Main Menu 0
+
+#Report Menu
+
+S.No.	Features	Cost (Rs.)
+1	Purchase Report	0
+2	Sale Report	0
+3	Profit Report	0
+4	Daily Sale Report	0	
+5 Daily Purchase Report 0
+6 Main Menu 0
+
+
+
+
+
+
+
+
 
 #DEFINING OUR SYSTEM
 
